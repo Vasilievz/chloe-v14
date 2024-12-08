@@ -48,3 +48,4 @@ vá até o arquivo `config.json` na raiz do seu projeto com as seguintes configu
 }
 ```
 Chloe - Bot de economia feito com 💙 pela comunidade Rocketz Hub.
+Faça parte para mais bots como este: https://discord.gg/ShsYBapz9c

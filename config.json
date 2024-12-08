@@ -1,0 +1,6 @@
+{
+  "token": "seu_token_aqui",
+  "clientId": "seu_client_id_aqui",
+  "guildId": "seu_guild_id_aqui",
+  "mongoURI": "sua_mongo_uri_aqui"
+}

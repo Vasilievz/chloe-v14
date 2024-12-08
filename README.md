@@ -34,3 +34,17 @@ Clone o repositório para o seu diretório local:
 
 ```bash
 git clone https://github.com/Vasilievz/chloe-v14.git
+```
+### 3. Configuração do config.json
+
+vá até o arquivo `config.json` na raiz do seu projeto com as seguintes configurações:
+
+```json
+{
+  "token": "seu_token_aqui",
+  "clientId": "seu_client_id_aqui",
+  "guildId": "seu_guild_id_aqui",
+  "mongoURI": "sua_mongo_uri_aqui"
+}
+```
+Chloe - Bot de economia feito com 💙 pela comunidade Rocketz Hub.
